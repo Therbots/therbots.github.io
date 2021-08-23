@@ -1,0 +1,22 @@
+p{
+    background-color: blue;
+    color: silver;
+}
+
+h1 {
+    padding: 50px;
+    margin: 50px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    background-color: blue;
+    color: silver;
+}
+
+h4, h2, h3 {
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    background-color: blue;
+    color: silver;
+}
