@@ -22,6 +22,7 @@ h4, h2, h3 {
 }
 body {
     background-color: blue;
+    max-width: 100%;
 }
 button {
     background-color: silver;
