@@ -37,3 +37,9 @@ button {
 h3 {
     color: silver;
 }
+.proj-button {
+    background-image: url("https://www.programmingforbeginnersbook.com/public/images/logo.gif");
+    color: silver;
+    background-color: blue;
+    border-radius: 25px;
+}
